@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Aoc04
+namespace AoC04
 {
     public class Input
     {

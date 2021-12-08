@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Aoc03
+namespace AoC03
 {
     class Program
     {

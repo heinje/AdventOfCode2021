@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Aoc04
+namespace AoC04
 {
     class Program
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Aoc04
+namespace AoC04
 {
     public class Board
     {

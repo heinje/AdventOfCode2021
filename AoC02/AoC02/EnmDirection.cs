@@ -1,4 +1,4 @@
-﻿namespace Aoc02
+﻿namespace AoC02
 {
     public enum EnmDirection
     {
